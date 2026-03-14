@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc1d468-98e5-41fe-ac79-584db6899ebe" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matterbridge-example-dynamic-platform.config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matterbridge-example-dynamic-platform.schema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/module.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/narwalapi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/narwalapi.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/narwalsocket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/narwalsocket.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matterbridge-narwal.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/matterbridge-narwal.config.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772505105395</updated>
       <workItem from="1772505106534" duration="7884000" />
-      <workItem from="1772518720661" duration="128554000" />
+      <workItem from="1772518720661" duration="128668000" />
     </task>
     <servers />
   </component>
