@@ -1,0 +1,12 @@
+{
+  "name": "matterbridge-narwal",
+  "type": "DynamicPlatform",
+  "whiteList": [],
+  "blackList": [],
+  "debug": false,
+  "unregisterOnShutdown": false,
+  "useInterval": true,
+  "enableServerRvc": true,
+  "mobile": "mcctmjSvQwhHifMz0Rme1Q==",
+  "password": "lvUedA8HsyqZRf60uN1czg=="
+}
